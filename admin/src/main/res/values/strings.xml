@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">admin</string>
+    <string name="your_number">Your Number</string>
+    <string name="name">Startup Name</string>
+    <string name="androiddev">Android Developer</string>
+    <string name="webdev">Website Developer</string>
+    <string name="place_reuest">Place Reuest</string>
+    <string name="service">Service</string>
+</resources>

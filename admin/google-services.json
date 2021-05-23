@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "198180261504",
+    "firebase_url": "https://smartintern-5d5bc-default-rtdb.firebaseio.com",
+    "project_id": "smartintern-5d5bc",
+    "storage_bucket": "smartintern-5d5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198180261504:android:37082cc3d1c5d495e0a065",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198180261504-uhugqo3339114f4qples905pjefh58ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8d3gQOYnQCuqIRNJVl2o-Hcr9G9LOIsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198180261504-uhugqo3339114f4qples905pjefh58ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198180261504:android:6ad4c203acf0d6b4e0a065",
+        "android_client_info": {
+          "package_name": "com.example.smartintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198180261504-uhugqo3339114f4qples905pjefh58ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8d3gQOYnQCuqIRNJVl2o-Hcr9G9LOIsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198180261504-uhugqo3339114f4qples905pjefh58ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

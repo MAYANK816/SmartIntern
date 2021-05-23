@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+  <item android:id="@+id/menu_home"
+      android:icon="@drawable/ic_home_black_24dp"
+      android:title="Home"/>
+
+    <item android:id="@+id/menu_call"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="Call"/>
+
+    <item android:id="@+id/menu_about"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="About"/>
+
+        <item android:id="@+id/menu_logout"
+      android:icon="@drawable/ic_baseline_login_24"
+      android:title="Logout"/>
+</group>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_forgotPass"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Forgot Password"/>
+
+
+    </group>
+</menu>
